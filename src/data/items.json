@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Earphones",
+    "price": 10.99,
+    "imgUrl": "/imgs/earphones.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Keyboard",
+    "price": 20.05,
+    "imgUrl": "/imgs/keyboard.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mouse",
+    "price": 14.65,
+    "imgUrl": "/imgs/mouse.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Monitor",
+    "price": 298.97,
+    "imgUrl": "/imgs/monitor.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Macbook",
+    "price": 1199,
+    "imgUrl": "/imgs/macbook.jpg"
+  }
+]
